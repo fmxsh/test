@@ -6,4 +6,4 @@ Just testing github
 | [abc1]  | a       | some text    |
 | [abc2] | b       | some tddext2   |
 | [abc3] | `a` or `b` | `[a \| b]` |
-| abc4 | * | 123 |
+| abc4 | \* | 123 |
