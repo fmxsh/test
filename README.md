@@ -9,5 +9,5 @@ Just testing github
 | abc4 | \* | 123 |
 
 \* abc
-> [!INFO]
+> [!INFORMATION]
 > abc
